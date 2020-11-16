@@ -1,6 +1,6 @@
-==============================================
+====
 Simple Game of Life realisation using pygame
-==============================================
+====
 
 Install requered pygame module and run! That's it :)
 
