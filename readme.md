@@ -1,4 +1,4 @@
-====
+
 Simple Game of Life realisation using pygame
 ====
 
